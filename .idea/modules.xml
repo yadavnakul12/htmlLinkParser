@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/htmlLinkParser.iml" filepath="$PROJECT_DIR$/.idea/htmlLinkParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/htmlLinkParserAndSiteMap.iml" filepath="$PROJECT_DIR$/.idea/htmlLinkParserAndSiteMap.iml" />
     </modules>
   </component>
 </project>
